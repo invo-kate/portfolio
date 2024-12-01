@@ -1,1 +1,3 @@
-
+img[alt$="icon"] {
+  vertical-align: bottom;
+}
