@@ -2,7 +2,7 @@
 
 ## Step 1 - Enable the Linux development environment
 
-1. Open the Chromebook Launcher. ![chrome launcher icon](../images/icons/chromebook-launcher.png)
+1. Open the Chromebook Launcher.
 
 2. Open **Settings**.
 
@@ -41,7 +41,7 @@
 
 5. Click **OK** when prompted and wait for the installation to finish.
 
-6. Open the Chromebook Launcher ![chrome launcher icon](../images/icons/chromebook-launcher.png)
+6. Open the Chromebook Launcher
 and search for **Visual Studio Code**. It will be in a folder called **Linux apps** along with the Linux terminal.
 
 7. Launch Visual Studio Code.
