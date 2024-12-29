@@ -19,15 +19,15 @@ The Verify ID Expiration Date switch is a new switch in Sitecore that allows for
 Toggling the switch is done on the Sitecore content management server.
 
 The path to the switch is: 
- `/sitecore/content/Website/Settings/Switches/VerifyIDExpirationDate`
+`/sitecore/content/Website/Settings/Switches/VerifyIDExpirationDate`
 
- **Step 1:** Select the VerifyIDExperiationDate item.
+**Step 1:** Select the VerifyIDExperiationDate item.
 
- **Step 2**: Toggle the switch to turn id expiration verification on or off.
+**Step 2**: Toggle the switch to turn id expiration verification on or off.
 
- To turn on verification, select **Switch On**. 
+- To turn verification *ON*, select **Switch On**. 
 
- To turn off verification, clear **Switch On**.
+- To turn verification *OFF*, clear **Switch On**.
 
 ![image](../images/release-notes/sitecore-expire-switch-toggle.png)
 
