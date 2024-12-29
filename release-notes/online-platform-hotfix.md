@@ -27,11 +27,9 @@ The path to the switch is:
 
  To turn on verification, select **Switch On**. 
 
-![image](../images/release-notes/id-expire-switch-on.png)
-
  To turn off verification, clear **Switch On**.
 
-![image](../images/release-notes/id-expire-switch-off.png)
+![image](../images/release-notes/sitecore-expire-switch-toggle.png)
 
 **Step 3:** With the VerifyIDExperiationDate item selected, click **Publish** then select **Publish item.**
 
