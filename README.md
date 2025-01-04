@@ -12,3 +12,4 @@ Much of the work I have done over the past 10 years is propietary and not in the
 
 | Document | Documentation Type | Tools Used | Challenges |
 | -------- | -------- | -------- | -------- |
+| [Online Platform Hotfix](https://github.com/invo-kate/portfolio/blob/main/release-notes/online-platform-hotfix.md) | Release Notes | Markdown | -------- |
