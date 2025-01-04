@@ -9,3 +9,5 @@ Much of the work I have done over the past 10 years is propietary and not in the
 | Document | Documentation Type | Tools Used | Challenges |
 | -------- | -------- | -------- | -------- |
 | [Online Platform Hotfix](https://github.com/invo-kate/portfolio/blob/main/release-notes/online-platform-hotfix.md) | Release Notes | Markdown | -------- |
+| [How To Install VS Code on a Chromebook](https://github.com/invo-kate/portfolio/blob/main/how-tos/install-vscode-on-chromebook.md) | How To | Markdown | -------- |
+| [Design Samples](https://github.com/invo-kate/portfolio/blob/main/release-notes/online-platform-hotfix.md) | Graphic Design | Adobe Photoshop, Illustrator | -------- |
