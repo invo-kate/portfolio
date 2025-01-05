@@ -29,11 +29,11 @@ The path to the switch is:
 
 - To turn verification *OFF*, clear **Switch On**.
 
-![image](../images/release-notes/sitecore-expire-switch-toggle.png)
+![Sitecore UI capture of the ID expire switch.](../images/release-notes/sitecore-expire-switch-toggle.png "ID Expire Switch")
 
 **Step 3:** With the VerifyIDExperiationDate item selected, click **Publish** then select **Publish item.**
 
-![image](../images/release-notes/sitecore-select-publish-item.png)
+![Sitecore UI capture of the of the publish item menu option.](../images/release-notes/sitecore-select-publish-item.png "Publish Item")
 
 **Step 4:**  In the **Publish Item** dialog, select the following settings: 
 
@@ -49,6 +49,6 @@ The path to the switch is:
 - **Web 1 (web1)**
 - **Web 2 (web2)**
 
-![image](../images/release-notes/sitecore-publish-dialog.png)
+![Sitecore UI capture of the of the publishing dialog.](../images/release-notes/sitecore-publish-dialog.png "Publishing Dialog")
 
 **Step 5:** Click **Publish.** When publishing completes, the number of items processed, created, deleted or updated will display.
