@@ -4,7 +4,9 @@ I began my career as a software developer, but increasingly found myself in proj
 
 ### A bit about my portfolio
 
-Much of the work I have done over the past 10 years is propietary and not in the public domain. However, here are some samples that illustrate the variety of the projects I have been involved with.
+Much of the work I have done over the past 10 years is propietary and not in the public domain. However, here are some samples that illustrate the variety of the projects I have been involved with. 
+* My Markdown samples follow the [Google developer documentation style guide](https://developers.google.com/style).
+* My Cargill samples follow the Cargill style and branding guidelines.
 
 | Document | Documentation Type | Tools Used | Comments |
 | -------- | -------- | -------- | ----------- |
