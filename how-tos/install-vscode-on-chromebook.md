@@ -2,7 +2,7 @@
 
 ## Step 1 - Enable the Linux development environment
 
-1. Open the Chromebook Launcher.
+1. Select the Chromebook Launcher.
 
 2. Open **Settings**.
 
