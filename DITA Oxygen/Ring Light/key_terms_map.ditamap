@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Key Terms Map</title>   
+    <topichead>
+        <topicmeta>
+            <navtitle>Key Terms</navtitle>
+            <shortdesc>Common terms and lighting definitions associated with the Valusin™ 10" ring light.</shortdesc>
+        </topicmeta>        
+        <topicref href="key_terms.dita"/>
+    </topichead>
+</map>

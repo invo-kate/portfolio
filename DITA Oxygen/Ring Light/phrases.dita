@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<!-- This file serves as a constants, or a strings file for phrases contained in this document -->
+<topic id="phrase-list">
+    <title>Phrases</title>
+    <body>
+        <p>
+            <ph id="photo-credit">Photo Credit Kate Berg, 2023</ph>
+        </p>
+    </body>
+</topic>

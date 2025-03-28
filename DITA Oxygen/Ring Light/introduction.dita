@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+  <topic id="ring-light-introduction">
+      <title>Valusin 10" Ring Light Manaual</title>
+      <body>
+    <image placement="break" href="media/ring-light-and-accessories.png" id="image_cbv_dgt_r2c">
+      <alt>The ring light is shown surrounded by all included accessories</alt>
+    </image>
+        <p><i><ph conref="phrases.dita#phrase-list/photo-credit"></ph></i></p> 
+        <section id="intro-text">
+          <p>The Valusin™ Desktop Ring Light is a valuable addition to
+    any home office in this new era of remote work and online meetings.
+    Whether you are on a video call with friends or giving a
+    presentation to your coworkers, you will enjoy the confidence boost
+    that having good lighting provides. It offers both standard and RGB
+    lighting options, with eight different brightness settings,
+    allowing for an extraordinary level of control and personalization.
+    This 10-inch ring light comes with a desktop tripod, a floor stand,
+    and an extendable phone holder for easy use with multiple devices,
+    such as phones, tablets, laptops, and PCs.</p>
+          <p>The purpose of this manual is to familiarize you with this
+    product and all of its functions, and to guide you in assembly and
+    set up. Please be sure to read the information in this manual
+    carefully, paying special attention to the warnings and precautions
+    before you use this product.</p>
+  </section>
+  </body>
+ </topic>

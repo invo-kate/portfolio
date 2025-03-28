@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="button_functions">
+    <title>Button Functions</title>
+    <shortdesc>Button functions on the 10" Valusin™ ring light.</shortdesc>
+    <refbody>
+        <table>
+            <tgroup cols="2">
+                <colspec colname="button" colwidth="dynamic" align="left" colsep="0"/>
+                <colspec colname="name-and-function" colwidth="dynamic" align="left" colsep="0"/>
+                <tbody valign="middle">
+                    <row id="button-power">
+                        <entry><image placement="inline" href="media/button-power.png" scale="50"
+                                id="img-button-power">
+                                <alt>The power button is a circle labeled with the power symbol.</alt>
+                            </image></entry>
+                        <entry>
+                            <p><b>Power</b></p>
+                            <p>Click to turn the ring light on and off.</p>
+                        </entry>
+                    </row>
+                    <row id="button-increase-brightness">
+                        <entry><image placement="inline" href="media/button-increase-brightness.png"
+                                scale="50" id="img-button-increase-brightness">
+                                <alt>The increase brightness button is a circle labeled with a plus sign.</alt>
+                            </image></entry>
+                        <entry>
+                            <p><b>Increase Brightness</b></p>
+                            <p>Click to turn up the brightness level from 1-8.</p>
+                        </entry>
+                    </row>
+                    <row id="button-descrease-brightness">
+                        <entry><image placement="inline" href="media/button-decrease-brightness.png"
+                                scale="50" id="img-button-decrease-brightness">
+                                <alt>The decrease brightness button is a circle labeled with a minus sign.</alt>
+                            </image></entry>
+                        <entry>
+                            <p><b>Decrease Brightness</b></p>
+                            <p>Click to turn down the brightness level from 8-1.</p>
+                        </entry>
+                    </row>
+                    <row id="button-standard-mode">
+                        <entry><image placement="inline" href="media/button-standard-mode.png"
+                                scale="50" id="img-button-standard-mode">
+                                <alt>The enable standard light mode button is a circle labeled with the letter M.</alt>
+                            </image></entry>
+                        <entry>
+                            <p><b>Enable Standard Mode</b></p>
+                            <p>Click to turn on standard light mode. While in standard light mode,
+                                click to rotate through white, natural, and warm light.</p>
+                        </entry>
+                    </row>
+                    <row id="button-rgb-mode">
+                        <entry><image placement="inline" href="media/button-rgb-mode.png" scale="50"
+                                id="img-button-rgb-mode">
+                                <alt>The enable RGB mode button is a circle labeled with the letter R, G and B.</alt>
+                            </image></entry>
+                        <entry>
+                            <p><b>Enable RGB Mode</b></p>
+                            <p>Click to turn RGB light mode on and off. While in RGB light mode,
+                                click to rotate through the fourteen distinct light colors. Click
+                                and hold for 3-5 seconds to enter gradient mode, where the ring
+                                light slowly cycles through the colors.</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

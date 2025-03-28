@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN" "glossgroup.dtd">
+<glossgroup id="key_terms">
+    <title>Key Terms</title>
+    
+    <glossentry id="color-temperature" conref="term_color_temperature.dita">
+        <glossterm></glossterm>
+        <glossdef></glossdef>
+    </glossentry>
+    <glossentry id="gradient-light" conref="term_gradient_light.dita">
+        <glossterm></glossterm>
+        <glossdef></glossdef>
+    </glossentry>
+    <glossentry id="led" conref="term_led.dita">
+        <glossterm></glossterm>
+        <glossdef></glossdef>
+    </glossentry>
+    <glossentry id="rgb-led" conref="term_rgb_led.dita">
+        <glossterm></glossterm>
+        <glossdef></glossdef>
+    </glossentry>
+</glossgroup>

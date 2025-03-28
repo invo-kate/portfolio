@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="ring_light_does_not_turn_on">
+    <title>Ring light does not turn on</title>
+    <troublebody>
+        <condition>
+            <title>The ring light does not turn on when the power button is pressed.</title>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>No power</title>
+                <p>The problem is usually due to the power not being supplied to the system through the electrical outlet.</p>
+            </cause>
+            <remedy>
+                <title>Make sure the ring light is plugged in.</title>
+                <steps>
+                    <step>
+                        <cmd>Check that the AC/DC adapter is plugged securely into the ring light: <xref href="attach_power_cord.dita"/></cmd>
+                    </step>
+                    <step><cmd>Check that the cord is plugged into an electrical outlet.</cmd> </step>
+                </steps>
+            </remedy>
+            <remedy>
+                <title>Make sure the electrical outlet you are using has power.</title>
+                <steps>
+                    <step>
+                        <cmd>Plug in another device, like a lamp, or your phone charger, and checking that there is power going to that device.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

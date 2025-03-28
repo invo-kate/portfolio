@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="warning_strangulation_hazard">
+    <title><ph conref="warning-titles.dita#warning-title-list/warning-title-strangulation"/></title>
+    <body>
+        <hazardstatement type="warning" id="warning-strangulation">
+            <messagepanel>
+                <typeofhazard>Strangulation hazard</typeofhazard>
+                <consequence>This product contains an electrical cord that can cause
+                    strangulation.</consequence>
+                <howtoavoid>Keep this product away from children under 3 years old.</howtoavoid>
+            </messagepanel>
+        </hazardstatement>
+    </body>
+</topic>

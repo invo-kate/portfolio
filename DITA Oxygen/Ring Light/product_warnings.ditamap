@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <topichead>
+        <topicmeta>
+            <navtitle>Product Warnings</navtitle>
+            <shortdesc>Pay attention to the warnings and precautions before you use this product.</shortdesc>
+        </topicmeta>        
+        <topicref href="warning_danger_of_electric_shock.dita"/>
+        <topicref href="warning_fire_hazard.dita"/>
+        <topicref href="warning_strangulation_hazard.dita"/>
+        <topicref href="warning_choking_hazard.dita"/>
+        <topicref href="warning_precautions.dita"/>
+    </topichead>
+</map>

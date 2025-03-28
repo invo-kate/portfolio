@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="fire-hazard">
+  <title><ph conref="warning-titles.dita#warning-title-list/warning-title-fire"></ph></title>
+       <body>
+         <hazardstatement type="danger" id="warning-fire">
+           <messagepanel>
+             <typeofhazard>Fire hazard</typeofhazard>
+             <consequence>Improper use of this product can cause a fire. </consequence>
+             <howtoavoid>Use only as directed, on a clean, flat surface, clear of all flammable items.</howtoavoid>
+             <howtoavoid>Never attempt to drape anything over the ring light while in use.</howtoavoid>
+             <howtoavoid>Wait for the light to cool down before disassembly or storage.</howtoavoid>
+           </messagepanel>
+         </hazardstatement>       
+      </body>
+    </topic>

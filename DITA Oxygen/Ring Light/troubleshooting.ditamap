@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <topichead>
+        <topicmeta>
+            <navtitle>Troubleshooting</navtitle>
+            <shortdesc>Having trouble? Fix common issues with the Valusin™ 10" ring light.</shortdesc>
+        </topicmeta>        
+        <topicref href="issue_ring_light_does_not_turn_on.dita"/>
+        <topicref href="issue_floor_stand_collapses.dita"/>
+        <topicref href="issue_facial_features_washed_out.dita"/>
+        <topicref href="issue_ring_light_casts_shadows.dita"/>
+    </topichead>
+</map>

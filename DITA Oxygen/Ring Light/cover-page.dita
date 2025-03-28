@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="cover-page">
+  <title><b>Valusin 10" Ring Light User Manual</b></title>
+    <body>
+    <section id="cover-image">      
+      <p>
+        <image href="media/ring-light-and-accessories.png" scale="125" alt="A photo of the ring light and the included accessories."/>
+      </p>
+      <p>
+      <i>Photo Credit Kate Berg, 2023</i>
+     </p>  
+    </section>
+      <section id="introduction" conref="introduction.dita#ring-light-introduction/intro-text">
+    </section>
+     </body>
+</topic>

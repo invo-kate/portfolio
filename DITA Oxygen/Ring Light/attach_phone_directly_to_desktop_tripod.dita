@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="attach_phone_to_desktop_tripod_without_ring_light">
+    <title>Attach a phone directly to the desktop tripod</title>
+    <shortdesc>How to use a phone with desktop tripod without attaching the ring ligh.</shortdesc>
+    <taskbody>
+        <context>
+            <p>The desktop tripod can be used with the phone holder directly, without attaching the ring light. This bonus functionality could come in handy if you want to use the ring light with the floor stand but set up your phone somewhere else. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Attach the ball head.</cmd>
+                <info>
+                    <p>Align the ball head on the screw at the top of the desktop tripod, and twist
+                        until it becomes tight. <image placement="break"
+                            href="media/attach-ballhead.png" scale="75" id="img-attach-ballhead-directly">
+                            <alt>One hand holds the base of the tripod while the other hand twists
+                                the ball head to secure it on top of the tripod.</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Attach the expandable phone holder to the ball head.</cmd>
+                <info>
+                    <p>Align the phone holder with the screw pad on top of the tripod and twist
+                        until secure.<image placement="break"
+                            href="media/attach-phone-holder-directly.png" scale="75"
+                            id="img-attach-phone-directly">
+                            <alt>One hand holds the tripod while the other hand holds the phone
+                                holder, containing a phone, in position at the top of the
+                                tripod.</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Adjust the ring light using the ball head.</cmd>
+                <info>
+                    <p>Twist the screw on the side of the ball head to rotate and tilt the phone
+                        holder. Tighten the screw once the phone holder is in the desired
+                            position.<image placement="break" href="media/adjust-phone-directly.png"
+                            scale="75" id="img-adjust-tilt-directly">
+                            <alt>One hand holds the both the tripod and phone holder while the other
+                                hand twists the screw at the side.</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Phone only with tripod setup is complete.</cmd>
+                <info><p>
+                        <image placement="break" href="media/completed-tripod-phone-only.png"
+                            scale="75" id="img-phone-only-setup-complete">
+                            <alt>Completed setup of the desktop tripod with a phone and no ring
+                                light.</alt>
+                        </image>
+                    </p></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

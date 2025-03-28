@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="attach_power_cord">
+    <title>Attach the AC/DC power cord</title>
+    <shortdesc>How to attach the power cord to the Valusin™ 10" ring light.</shortdesc>
+    <taskbody>
+        <context>
+            <p>
+                <ul id="power-cord-dc-context">
+                    <li>The DC connector is the cylindrical plug.</li>
+                    <li>The DC jack jack can be found on the lower right-hand side of the ring light
+                        base, if the ring light buttons are facing you.</li>
+                </ul>
+            </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Plug the DC connector into the DC jack on the ring light.
+                    <image
+                        placement="break" href="media/attach-power-cord.png" id="img-attach-power-cord"
+                        scale="75">
+                        <alt>One hand is holder the base of the ring light while the other hand
+                            plugs in the DC jack at the base of the light.</alt>
+                    </image></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

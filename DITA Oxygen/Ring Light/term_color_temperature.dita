@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="color-temperature">
+    <glossterm>Color Temperature</glossterm>
+    <glossdef>Color temperature is a way to describe the color of light given off from a light fixture. White light is associated with cool lighting, while softer, more yellow light is associated with warm lighting.</glossdef>
+</glossentry>

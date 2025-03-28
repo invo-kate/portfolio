@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enable_gradient_mode">
+    <title>Enable gradient mode</title>
+    <shortdesc>How to enable gradient mode on the Valusin 10" ring light.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Press and hold the “RGB” button for 3-5 seconds, and the ring light will enter
+                    gradient mode. While in gradient mode, the color will slowly cycle from red,
+                    yellow, green, light blue, blue, purple, and pink. Press the “M” button to
+                    return to standard mode.<image placement="break" scale="50"
+                        href="media/button-rgb-mode.png" id="img-gradient-mode">
+                        <alt>The RGB mode button is a circle labeled with the letters R, G and
+                            B</alt>
+                    </image></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

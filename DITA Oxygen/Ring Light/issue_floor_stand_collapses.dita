@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="issue_floor_stand_collapses">
+    <title>Floor stand collapses</title>
+    <troublebody>
+        <condition>
+            <title>The floor stand collapses.</title>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>The extender tabs are not locked in place.</title>
+                <p>All four extender tabs that adjust the stand length must be locked securely in
+                    place to avoid instability.</p>
+            </cause>
+            <remedy>
+                <title>Make sure all four extender tabs are locked in place.</title>
+                  <steps>
+                    <step>
+                        <cmd><xref
+                                href="set_up_the_floor_stand.dita#set_up_the_floor_stand/floorstand-secure-tabs"
+                                > How to secure the floor stand extender tabs.</xref>
+                        </cmd>
+                    </step>
+                </steps>
+            </remedy>
+            </troubleSolution>
+        <troubleSolution>
+            <cause>
+                <title>The floor stand is not locked in place.</title>
+                <p>The screw that adjusts the legs of the floor stand must be tight to avoid instability.</p>
+            </cause>
+            <remedy>
+                <title>Secure the screw at the base of the stand.</title>
+                <steps>
+                    <step>
+                        <cmd>
+                            Make sure the screw at the bottom of the floor stand that secures the base is tight. <xref href="set_up_the_floor_stand.dita#set_up_the_floor_stand/img-floorstand-lock-base">How to adjust and secure the base of the floor stand.</xref>                         
+                        </cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

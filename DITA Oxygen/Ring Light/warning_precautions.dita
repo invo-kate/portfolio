@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="product-precautions">
+  <title><ph conref="warning-titles.dita#warning-title-list/warning-title-precautions"></ph></title>
+      <body>    
+        <hazardstatement type="notice" id="precautions">
+          <messagepanel>
+            <typeofhazard>Follow the recommended use and care instructions.</typeofhazard>
+            <consequence>Improper use of this product can cause a malfunction.</consequence>
+            <howtoavoid>Only use the ring light with the rated voltage and frequency: 100-240V~50/60Hz</howtoavoid>
+            <howtoavoid>Clean using a soft, dry cloth.</howtoavoid>
+            <howtoavoid>Do not try to repair the ring light. Consult a professional for repairs.</howtoavoid>
+          </messagepanel>
+        </hazardstatement>      
+      </body>
+    </topic>

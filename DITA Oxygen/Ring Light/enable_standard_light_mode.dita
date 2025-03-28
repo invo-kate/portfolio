@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enable_standard_light_mode">
+    <title>Enable standard light mode</title>
+    <shortdesc>How to enter standard light mode on the Valusin™ 10" ring light.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Press the “M” button to enter standard light mode and to cycle through the
+                    white, warm, and natural light options. You can then adjust the brightness
+                    levels by pressing either the plus or minus buttons. <image placement="break"
+                        href="media/button-standard-mode.png" scale="50" id="img-standard-mode">
+                        <alt>The standard mode button is a circle labeled with the letter M</alt>
+                    </image></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

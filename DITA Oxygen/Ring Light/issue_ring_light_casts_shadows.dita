@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="issue_ring_light_casts_shadows">
+    <title>The ring light casts shadows on my face</title>
+    <troublebody>
+        <condition>
+            <title>The ring light casts strange shadows on my face.</title>
+        </condition>
+
+        <troubleSolution>
+            <cause>
+                <title>The light is not centered</title>
+                <p>For the best results, the ring light should be placed at face level, in front of
+                    you. If the ring light is too high or too low, or too far to one side or the
+                    other, shadows will naturally be cast on the part of your face farthest away
+                    from the light. </p>
+            </cause>
+            <remedy>
+                <title>Center the ring light</title>
+                   <steps>
+                    <step>
+                        <cmd>Make sure the ring light at face level and centered.</cmd>
+                        <substeps>
+                            <substep>
+                                <cmd>When using the desktop tripod, adjust the height of the base.
+                                </cmd>
+                            </substep>
+                            <substep>
+                                <cmd>When using the floor stand try <xref href="set_up_the_floor_stand.dita#set_up_the_floor_stand/floorstand-adjust-base">adjusting the base height </xref> or         
+                                <xref href="set_up_the_floor_stand.dita#set_up_the_floor_stand/floorstand-release-tabs">lengthening the floor stand.</xref>
+                                </cmd>
+                            </substep>
+                        </substeps>
+                    </step>
+                </steps>
+
+            </remedy>
+        </troubleSolution>
+        <troubleSolution>
+            <cause>
+                <title>The light angled incorrectly</title>
+                <p>When using the desktop tripod, strange shadows might also be caused by the angle,
+                    or tilt of the ring light. </p>
+            </cause>
+            <remedy>
+                <title>Adjust the tilt of the ring light</title>
+                <steps>
+                    <step>
+                        <cmd>Follow these instuctions to adjust the tilt of the ring light: <xref href="setup_desktop_tripod.dita#setup_desktop_tripod/attach-ballhead">Adjust the ring light using the ball head.
+                        </xref></cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+
+    </troublebody>
+
+</troubleshooting>

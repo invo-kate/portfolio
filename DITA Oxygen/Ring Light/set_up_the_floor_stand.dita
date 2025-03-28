@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="set_up_the_floor_stand">
+    <title>Set up the floor stand</title>
+    <shortdesc>Six simple steps to setup the floorstand for use with the Valusin™ 10" ring
+        light.</shortdesc>
+    <taskbody>
+        <steps>
+            <step id="floorstand-release-base">
+                <cmd>Release the base.</cmd>
+                <info>
+                    <p>Twist the lock to release the base of the tripod.<image placement="break"
+                            href="media/floorstand-twist-lock.png" scale="75" id="img-floorstand-twist-lock">
+                            <alt>A hand is shown twisting the lock to release the base of the floor
+                                stand.</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step id="floorstand-adjust-base">
+                <cmd>Adjust the base height and lock it in place.</cmd>
+                <info>
+                    <p>Adjust the base to the preferred height, and then twist the lock to secure
+                        the stand.<image placement="break" href="media/floorstand-lock-base.png"
+                            scale="75" id="img-floorstand-lock-base">
+                            <alt>One hand is holding the base of the floor stand while the other
+                                hand twists the screw to lock the base in place.</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step id="floorstand-release-tabs">
+                <cmd>Release tabs to lengthen the floor stand.</cmd>
+                <info>
+                    <p>Release the tabs to lengthen the floor stand pole to the preferred
+                            height.<image placement="break" href="media/floorstand-release-tabs.png"
+                                scale="75" id="img-floorstand-release-tabs">
+                            <alt>One hand is holding the base of the floor stand while the other
+                                hand releases the tabs to lengthen the floor stand.</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step id="floorstand-secure-tabs">
+                <cmd>Press tabs to secure the pole in place.</cmd>
+                <info>
+                    <p>Once the floor stand is at the desired length, press the tabs to lock the
+                        floor stand pole in place.<image placement="break"
+                            href="media/floorstand-secure-tabs.png" id="img-floorstand-secure-tabs"
+                            scale="75">
+                            <alt>A hand is shown pressing the tabs to secure the pole of the floor
+                                stand after adjusting the length.</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step id="floorstand-attach-light">
+                <cmd>Attach the ring light to the floor stand.</cmd>
+                <info>
+                    <p>Align the ring light and the screw on top of the floor stand then turn the
+                        gear at the top of the floor stand to tighten the screw.</p>
+                    <p>
+                        <image placement="inline" href="media/floorstand-attach-ring-light.png"
+                            scale="50" id="img-floorstand-attach-ring-light">
+                            <alt>One hand is shown holding the top of the floor stand while the
+                                other hand aligns the ring light at the top.</alt>
+                        </image>
+                        <image placement="inline"
+                            href="media/floorstand-attach-ring-light-closeup.png" scale="50"
+                            id="img-floorstand-attach-ring-light-closeup">
+                            <alt>A hand is shown twisting the gear to secure the light to the floor
+                                stand.</alt>
+                        </image>
+                    </p>
+                </info>
+            </step>
+            <step id="floorstand-setup-complete">
+                <cmd>Floor stand setup is complete.</cmd>
+                <info>
+                    <image placement="break" href="media/completed-setup-floorstand.png" scale="75"
+                        id="img-completed-setup-floorstand">
+                        <alt>Complete floor stand at full heigh with ring light and phone
+                            attached.</alt>
+                    </image>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="attach_power_cord.dita"/>
+    </related-links>
+</task>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="electric-shock">
+  <title><ph conref="warning-titles.dita#warning-title-list/warning-title-shock"></ph></title>
+      <body>
+        <hazardstatement type="danger" id="warning-electric-shock">
+          <messagepanel>
+            <typeofhazard>Danger of electric shock</typeofhazard>
+            <consequence>Improper use of this product can electric shock.</consequence>
+            <howtoavoid>Do not use this product near water, on damp surfaces, or anywhere water is present.</howtoavoid>
+            <howtoavoid>Do not touch the power cord with wet hands.</howtoavoid>
+            <howtoavoid>Do not use this product if it is broken, damaged or has exposed wires.</howtoavoid>
+            <howtoavoid>Never attempt to insert metal objects not associated with setup into the ring light.</howtoavoid>
+            <howtoavoid>Only use this product indoors.</howtoavoid>
+          </messagepanel>
+        </hazardstatement>       
+      </body>
+    </topic>

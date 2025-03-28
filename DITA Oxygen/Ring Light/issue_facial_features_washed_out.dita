@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="issue_facial_features_washed_out">
+    <title>My facial features are washed out</title>
+    <troublebody>
+        <condition>
+            <title>When using the ring light, facial features appear washed out, or difficult to
+                distinguish.</title>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>The light is too bright</title>
+                <p>Usually, if your facial features look too washed out, or are difficult to
+                    distinguish, it is because the light is too bright.</p>
+            </cause>
+            <remedy>
+                <title>Adust the brightness</title>
+                <steps>
+                    <step>
+                        <cmd>Try adjusting the brightness using the plus and minus buttons. <xref
+                                href="button_functions.dita#button_functions/button-descrease-brightness"
+                                > Button Functions: Decrease Brightness </xref>
+                        </cmd>
+                    </step>
+                </steps>
+            </remedy>
+            <remedy>
+                <title>Move the ring light farther away from your face.</title>
+                <steps>
+                    <step>
+                        <cmd>
+                            You can also try moving the ring light farther away from your face to decrease the brightness.
+                        </cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

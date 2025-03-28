@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<!-- This file serves as a constants, or a strings file for the warning titles contained in this document -->
+<topic id="warning-title-list">
+    <title>Warning Titles</title>
+    <body>
+        <p>
+            <ph id="warning-title-choking">Choking hazard</ph>
+            <ph id="warning-title-strangulation">Strangulation hazard</ph>
+            <ph id="warning-title-shock">Danger of electric shock</ph>
+            <ph id="warning-title-fire">Fire hazard</ph>
+            <ph id="warning-title-precautions">Precautions</ph>
+        </p>
+    </body>
+</topic>

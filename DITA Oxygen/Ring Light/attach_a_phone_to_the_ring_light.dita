@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="attach_a_phone_to_the_ring_light">
+    <title>Attach a phone to the ring light</title>
+    <shortdesc>How to attach a phone to the Valusin™ 10" ring light.</shortdesc>
+    <taskbody>
+        <context>
+            <p>It is best practice to attach the phone to the ring light before attaching the ring
+                light to a tripod.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Attach the screw pad.</cmd>
+                <info>
+                    <p>Place the screw pad on the screw inside the ring light, twisting until
+                            secure.<image placement="break" href="media/attach-screw-pad.png"
+                            scale="75" id="image_nmx_v52_p2c">
+                            <alt>One hand holds the ring light while the other hand twists on the
+                                screw pad.</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Attach the extendable phone holder.</cmd>
+                <info>
+                    <p>Place the phone holder on the screw pad, twisting it until it is secure and
+                        facing the right direction. The front of the phone should face the front of
+                        the light.<image placement="break" href="media/attach-phon%20e-holder.png"
+                            scale="75" id="image_imb_1v2_p2c">
+                            <alt>One hand holds the base of the ring light while the other hand
+                                twists the phone holder to secure it in place.</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Secure the phone.</cmd>
+                <info>
+                    <p>Twist the side screw on the phone holder to adjust it to the right width to
+                        secure the phone.<image placement="break" href="media/secure-phone.png"
+                            scale="75" id="image_t4h_dv2_p2c">
+                            <alt>One hand holds the base of the ring light while the other hand
+                                twists the screw at the top of the phone holder.</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Adjust the phone.</cmd>
+                <info>
+                    <p>Twist the back screw on the phone holder to rotate the phone, tightening it
+                        to secure the phone in the desired position. You can set up the phone
+                        vertically or horizontally.
+                        <image placement="break"
+                            href="media/adjust-phone.png" scale="75" id="img-adjust-phone">
+                            <alt>One hand holds the phone while the other hand twists the screw on
+                                the back of the phone holder.</alt>
+                        </image>
+                    </p>
+                </info>
+            </step>
+            <step>
+                <cmd>Phone holder setup is complete.</cmd>
+                <info>
+                    <image placement="inline" href="media/phone-setup-vertical.png"
+                        id="img-phone-vertical" scale="50">
+                        <alt>A phone attached to the ring light and vertically aligned.</alt>
+                    </image>
+                    <image placement="inline" href="media/phone-setup-horizontal.png"
+                        id="img-phone-horizontal" scale="50">
+                        <alt>A phone attached to the ring light and vertically aligned.</alt>
+                    </image>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="attach_power_cord.dita"/>
+        <link href="setup_desktop_tripod.dita"/>
+        <link href="set_up_the_floor_stand.dita"/>
+    </related-links>
+</task>

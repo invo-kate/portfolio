@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="electric-shock" path="warning_danger_of_electric_shock.html"/>
+   <appContext helpID="fire-hazard" path="warning_fire_hazard.html"/>
+   <appContext helpID="warning_strangulation_hazard"
+               path="warning_strangulation_hazard.html"/>
+   <appContext helpID="choking-hazard" path="warning_choking_hazard.html"/>
+   <appContext helpID="product-precautions" path="warning_precautions.html"/>
+   <appContext helpID="key_terms" path="key_terms.html"/>
+   <appContext helpID="components" path="components.html"/>
+   <appContext helpID="button_functions" path="button_functions.html"/>
+   <appContext helpID="attach_a_phone_to_the_ring_light"
+               path="attach_a_phone_to_the_ring_light.html"/>
+   <appContext helpID="setup_desktop_tripod" path="setup_desktop_tripod.html"/>
+   <appContext helpID="set_up_the_floor_stand" path="set_up_the_floor_stand.html"/>
+   <appContext helpID="attach_power_cord" path="attach_power_cord.html"/>
+   <appContext helpID="attach_phone_to_desktop_tripod_without_ring_light"
+               path="attach_phone_directly_to_desktop_tripod.html"/>
+   <appContext helpID="ring_light_does_not_turn_on"
+               path="issue_ring_light_does_not_turn_on.html"/>
+   <appContext helpID="issue_floor_stand_collapses"
+               path="issue_floor_stand_collapses.html"/>
+   <appContext helpID="issue_facial_features_washed_out"
+               path="issue_facial_features_washed_out.html"/>
+   <appContext helpID="issue_ring_light_casts_shadows"
+               path="issue_ring_light_casts_shadows.html"/>
+</map>

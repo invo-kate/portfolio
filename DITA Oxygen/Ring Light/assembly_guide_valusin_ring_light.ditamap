@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <topichead>
+        <topicmeta>
+            <navtitle>Assembly Guide</navtitle>
+            <shortdesc>Quick and easy instructions for assembling the Valusin™ 10" ring light.</shortdesc>
+        </topicmeta>
+        <topicref href="attach_a_phone_to_the_ring_light.dita"/>
+        <topicref href="setup_desktop_tripod.dita"/>
+        <topicref href="set_up_the_floor_stand.dita"/>
+        <topicref href="attach_power_cord.dita"/>
+        <topicref href="attach_phone_directly_to_desktop_tripod.dita"/>
+    </topichead>
+</map>

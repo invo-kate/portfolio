@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="safety_warnings_and_precautions">
+    <title>Product Warnings</title>
+    <body>
+        <hazardstatement type="danger" conref="warning_danger_of_electric_shock.dita#electric-shock/warning-electric-shock">
+            <messagepanel>
+                <typeofhazard></typeofhazard>
+                <consequence></consequence>
+                <howtoavoid></howtoavoid>
+                <howtoavoid></howtoavoid>
+                <howtoavoid></howtoavoid>
+                <howtoavoid></howtoavoid>
+                <howtoavoid></howtoavoid>
+            </messagepanel>
+        </hazardstatement>       
+        <hazardstatement type="danger" conref="warning_fire_hazard.dita#fire-hazard/warning-fire">
+            <messagepanel>
+                <typeofhazard></typeofhazard>
+                <consequence></consequence>
+                <howtoavoid></howtoavoid>
+                <howtoavoid></howtoavoid>
+                <howtoavoid></howtoavoid>
+            </messagepanel>
+        </hazardstatement> 
+        <hazardstatement type="warning" conref="warning_strangulation_hazard.dita#warning_strangulation_hazard/warning-strangulation">
+            <messagepanel>
+                <typeofhazard></typeofhazard>
+                <consequence></consequence>
+                <howtoavoid></howtoavoid>
+            </messagepanel>
+        </hazardstatement>
+        <hazardstatement type="warning" conref="warning_choking_hazard.dita#choking-hazard/warning-choking">
+            <messagepanel>
+                <typeofhazard></typeofhazard>
+                <consequence></consequence>
+                <howtoavoid></howtoavoid>
+            </messagepanel>
+        </hazardstatement>
+        <hazardstatement type="notice" conref="warning_precautions.dita#product-precautions/precautions">
+            <messagepanel>
+                <typeofhazard></typeofhazard>
+                <consequence></consequence>
+                <howtoavoid></howtoavoid>
+                <howtoavoid></howtoavoid>
+                <howtoavoid></howtoavoid>
+            </messagepanel>
+        </hazardstatement>     
+    </body>
+</topic>

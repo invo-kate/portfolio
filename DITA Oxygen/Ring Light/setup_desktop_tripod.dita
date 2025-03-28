@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="setup_desktop_tripod">
+    <title>Set up the desktop tripod</title>
+    <shortdesc>Four simple steps to set up the desktop tripod for use with the Valusin™ 10" ring
+        light.</shortdesc>
+    <taskbody>
+        <steps>
+            <step id="attach-ballhead">
+                <cmd>Attach the ball head.</cmd>
+                <info>
+                    <p>Align the ball head on the screw at the top of the desktop tripod, and twist
+                        until it becomes tight. <image placement="break"
+                            href="media/attach-ballhead.png" id="img-attach-ballhead" scale="75">
+                            <alt>One hand is holding the base of the tripod while the other hand
+                                attaches the ballhead to the top.</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step id="attach-ring-light-tripod">
+                <cmd>Attach the ring light to the tripod.</cmd>
+                <info>
+                    <p>Align the screw on top of the tripod to the hole in the bottom of the ring
+                        light and twist until secure.<image placement="break"
+                            href="media/attach-ring-light-desktop-tripod.png" scale="75"
+                            id="img-attach-ring-light-desktop-tripod">
+                            <alt>One hand is holding the the tripod while the other hand attaches
+                                the ring light to the ball head.</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step id="adjust-ring-light-angle">
+                <cmd>Adjust the ring light using the ball head.</cmd>
+                <info>
+                    <p>Twist the screw on the side of the ball head to rotate and tilt the ring
+                        light. Tighten the screw once the ring light is in the desired
+                            position.<image placement="break" href="media/adjust-using-ballhead.png"
+                            id="img-adjust-ballhead" scale="75">
+                            <alt>One hand is holding the right light while the other hand adjusts
+                                the tilt using the screw on the ball head.</alt>
+                        </image></p>
+                </info>
+            </step>
+            <step id="desktop-tripod-setup-complete">
+                <cmd>Desktop tripod setup is complete.</cmd>
+                <info>
+                    <image placement="break" href="media/completed-setup-desktop.png"
+                        id="img-desktop-tripod-setup-complete" scale="75">
+                        <alt>Completed desktop tripod setup with ring light and phone
+                            attached.</alt>
+                    </image>
+                </info>
+             </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="attach_power_cord.dita"/>
+    </related-links>
+</task>

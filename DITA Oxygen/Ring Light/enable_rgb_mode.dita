@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enable_rgb_mode">
+    <title>Enable RGB Mode</title>
+    <shortdesc>How to enter RGB mode on the Valusin™ 10" ring light.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Press the “RGB” button to enter RGB mode. <i>You cannot adjust the brightness
+                        levels while in RGB mode.</i>
+                </cmd>
+            </step>
+            <step>
+                <cmd>Press the RGB button again to cycle through the 14 distinct colors that
+                    are available. <image placement="break" href="media/button-rgb-mode.png"
+                        scale="50" id="img-rgb-mode">
+                        <alt>The RGB mode button is a circle labeled with the letters R, G and
+                            B</alt>
+                    </image>
+                </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

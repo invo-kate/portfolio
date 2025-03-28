@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="enable_power_ring_light">
+    <title>Turn on the ring light</title>
+    <shortdesc>How to turn on the Valusin™ 10" ring light.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Press the power button to turn on the ring light. The ring light will
+                    automatically enter the light mode you were using the last time you turned it
+                    off. <image placement="break" href="media/button-increase-brightness.png"
+                        scale="50" id="img-power-button-task">
+                        <alt>The power button is a circle labeled with a plus sign.</alt>
+                    </image></cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="attach_power_cord.dita"/>
+    </related-links>
+</task>

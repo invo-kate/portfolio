@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="components">
+    <title>Components</title>
+    <shortdesc>Components included with the Valusin™ 10" ring light.</shortdesc>
+    <refbody>
+        
+        <table>
+            <tgroup cols="2">
+                <colspec colname="component-image" colwidth="dynamic" align="left"/>
+                <colspec colname="component-details" colwidth="dynamic" align="left"/>
+                <tbody valign="middle">
+                    <row>
+                        <entry><image placement="inline" href="media/ring-light.png" scale="50"
+                                id="img-ring-light">
+                                <alt>A 10" ring light with a flat black base containing
+                                    buttons.</alt>
+                            </image></entry>
+                        <entry>
+                            <p><b>10" Ring Light</b></p>
+                            <p><b>Dimensions:</b> 10” x 12” x 1.5”</p>
+                            <p><b>Weight:</b> 278g</p>
+                            <p>The five buttons at the base of the ring light control power, light
+                                modes, and brightness. The “M” button activates standard light mode,
+                                with three color temperature options and eight brightness levels.
+                                The “RGB” button activates RGB LED mode which has fourteen light
+                                colors to choose from, and a gradient mode which rotates those
+                                colors.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry><image placement="inline" href="media/ballhead.png" scale="50"
+                                id="img-ballhead">
+                                <alt>A cylindrical black component with two parts: A ball head
+                                    housing on the bottom with a screw on the side, and pivoting
+                                    screw head on top.</alt>
+                            </image></entry>
+                        <entry>
+                            <p><b>Ball Head</b></p>
+                            <p><b>Dimensions:</b> 1.125” x 2” x 1.125”</p>
+                            <p><b>Weight:</b> 56.7g</p>
+                            <p>The ball head is able to tilt and rotate 180 degrees and is used to
+                                connect the ring light to the desktop tripod.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry><image placement="inline" href="media/desktop-tripod.png" scale="50"
+                                id="img-desktop-tripod">
+                                <alt>A black plastic tripod with a screw on top.</alt>
+                            </image></entry>
+                        <entry>
+                            <p><b>Desktop Tripod</b></p>
+                            <p><b>Dimensions:</b> 2.35” x 4-9” x 2.35”</p>
+                            <p><b>Weight:</b> 60.95g</p>
+                            <p>The extremely lightweight, easy to use tripod is perfect for use with
+                                a laptop or the extendable phone holder. It extends from four inches
+                                to nine inches high and has non-slip grip pads so you can be sure it
+                                will stay in place and not slide around or slip down.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry><image placement="inline" href="media/screw-pad.png" scale="50"
+                                id="img-screw-pad">
+                                <alt>A black plastic disc with a threaded hole in the middle.</alt>
+                            </image></entry>
+                        <entry>
+                            <p><b>Screw Pad</b></p>
+                            <p><b>Dimensions:</b> 1.125” x 0.5”</p>
+                            <p><b>Weight:</b> 14.17g</p>
+                            <p>The screw pad is a padded disc used to attach the phone holder to the
+                                ring light.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry><image placement="inline" href="media/extendable-phone-holder.png"
+                                scale="50" id="img-extendable-phone-holder">
+                                <alt>A black plastic phone holder. The base has a threaded hole for
+                                    attaching to accessories. The phone holder arms are extendable
+                                    and have a screw on one side for tightening the phone in
+                                    place.</alt>
+                            </image></entry>
+                        <entry>
+                            <p><b>Extendable Phone Holder</b></p>
+                            <p><b>Dimensions:</b> 4” x 3.5” x 2.25”</p>
+                            <p><b>Weight:</b> 77.96g</p>
+                            <p>The extendable phone holder can be used with both the desktop tripod
+                                and the floor stand. It extends up to four inches wide and will fit
+                                most phones. It not only tilts vertically and horizontally, but also
+                                rotates 360 degrees, ensuring you can get the perfect angle in any
+                                situation.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry><image placement="inline" href="media/floor-stand.png" scale="50"
+                                id="img-floor-stand">
+                                <alt>A black metal floor stand with an adjustable tripod base and
+                                    extendable pole.</alt>
+                            </image></entry>
+                        <entry>
+                            <p><b>Floor Stand</b></p>
+                            <p><b>Dimensions:</b> 18” x 17-59”</p>
+                            <p><b>Weight:</b> 419.29g</p>
+                            <p>The versatile floor stand will ensure great lighting even when you
+                                are not at your desk. It can be used alone or with the extendable
+                                phone holder. It is strong, but surprisingly lightweight, and comes
+                                with non-slip grip pads on the feet. It is perfect for
+                                presentations, making videos, or photography shoots!</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry><image placement="inline" href="media/power-cord.png" scale="50"
+                                id="img-power-cord">
+                                <alt>A black power cord. One side has a DC jack. The other side has
+                                    a two-pronged electrical plug.</alt>
+                            </image></entry>
+                        <entry>
+                            <p><b>Power Cord</b></p>
+                            <p><b>Dimensions:</b> 68” long</p>
+                            <p><b>Weight:</b> 73.14g</p>
+                            <p>Having an AC/DC cord instead of a USB cord saves a port on your
+                                laptop or pc and frees up the ring light for use away from your desk
+                                with the floor stand.</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
