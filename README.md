@@ -10,7 +10,7 @@ Much of the work I have done over the past 10 years is propietary and not in the
 
 | Document | Documentation Type | Tools Used | Comments |
 | -------- | -------- | -------- | ----------- |
-| [Valusin :tm: Ring Light Manual](https://invo-kate.github.io/valusin-ring-light/) | Product Manual |  DITA / Oxygen | A project I created as a part of learning DITA and trialing the Oxygen Authoring tool. |
+| [Valusin :tm: Ring Light Manual](https://invo-kate.github.io/valusin-ring-light/) | Product Manual |  DITA / Oxygen | A project I created as a part of learning DITA and trialing the Oxygen Authoring tool. If you want to view the source files, in addition to the site link in the first column, you can find them here: [DITA source files](https://github.com/invo-kate/valusin-ring-light/tree/main/source-files) |
 | [Online Platform Hotfix](https://github.com/invo-kate/portfolio/blob/main/release-notes/online-platform-internal-hotfix.md) | Release Notes | Markdown | Internal hotfix release notes I wrote while I working on the web development team at Security Service Federal Credit Union. |
 | [How To Install VS Code on a Chromebook](https://github.com/invo-kate/portfolio/blob/main/how-tos/install-vscode-on-chromebook.md) | How-to | Markdown | A how-to guide I created when I wanted to use my Chromebook for development. |
 | [Chocolate Manufacuring Training Guide](https://github.com/invo-kate/portfolio/blob/main/training-guides/Cargill-training-excerpts.pdf) | Training Guide | MS Word | Excerpts from training material I created while contracted by Cargill Cocoa and Chocolate North America. The most challenging aspect of this project was having to repurpose graphics from other Cargill source material, with only MS Paint available as an editing tool. |
